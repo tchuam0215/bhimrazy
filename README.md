@@ -7,7 +7,7 @@ apply these skills to develop some cool projects.
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/bhimrazyadav)](https://twitter.com/bhimrazyadav)
 [![Instagram Badge](https://img.shields.io/badge/-@bhimrazyadav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhimrazyadav/)](https://www.instagram.com/bhimrazyadav)
-[![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/bhimrazy/)
+[![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/charles-tchuenkam-61153114b/)
 [![Github Badge](https://img.shields.io/github/followers/bhimrazy?style=social)](https://github.com/bhimrazy)
 [![Facebook Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bhimrazy)](https://www.facebook.com/bhimrazy)
 
